@@ -16,11 +16,11 @@
     ],
     "pluginsConfig": {
         "theme-gestalt": {
-            "logo": "https://maateen.me/img/avatar.jpg",			// path to the logo file to use in the sidebar
-            "favicon": "https://cdn.maateen.me/img/favicon-en.ico",		// path to your favicon
-            "baseUrl": null,				// sets the base url in the HTML head
-            "excludeDefaultStyles": true,		// excludes the pre-compiled theme css in favor of your custom css
-            "doNotHideChildrenChapters" : false		// in summary, disables hiding of child chapters for inactive chapter
+            "logo": "https://maateen.me/img/avatar.jpg",
+            "favicon": "https://cdn.maateen.me/img/favicon-en.ico",
+            "baseUrl": null,
+            "excludeDefaultStyles": true,
+            "doNotHideChildrenChapters" : false
         },
         "prism": {
             "css": [
