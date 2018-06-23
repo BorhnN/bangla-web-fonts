@@ -1,8 +1,5 @@
 {
     "plugins": [
-        "theme-gestalt",
-        "-theme-default",
-        "styles-sass-fix",
         "prism",
         "canonical-link",
         "hide-published-with",
@@ -15,13 +12,6 @@
         "forkmegithub"
     ],
     "pluginsConfig": {
-        "theme-gestalt": {
-            "logo": "https://maateen.me/img/avatar.jpg",
-            "favicon": "https://cdn.maateen.me/img/favicon-en.ico",
-            "baseUrl": null,
-            "excludeDefaultStyles": true,
-            "doNotHideChildrenChapters" : false
-        },
         "prism": {
             "css": [
                 "prismjs/themes/prism-solarizedlight.css"
